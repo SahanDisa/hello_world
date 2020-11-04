@@ -1,2 +1,2 @@
 # hello_world
-general
+general hello world repository for displaying "hello world" different languages
